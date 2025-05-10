@@ -50,3 +50,9 @@
       year: 08/2014-04/2016
       description:
         - "Participate in the development of bank transaction systems. Including: batch trade settlement, report lost or stolen debit card, replacement card, card security authentication, etc. Additionally, involved in deploying new modules to bank backend production servers."
+
+    - title: Software Engineer
+      institution: Jinan Yuancheng Innovation Technology Co Ltd, Jinan, China 
+      year: 07/2008-06/2010
+      description:
+        - "Participate in the development of an automated office system based on C#, Extjs, JavaScript, CSS and Windows Workflow Foundation technology, mainly used to handle process review business."
