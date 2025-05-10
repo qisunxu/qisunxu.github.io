@@ -38,3 +38,10 @@
       description:
         - "Research Assistant: We study several facility location problems on various graphs related to uncertain demand data. Specifically, we focus on solving the two-center problem on a line, a tree graph, and a cactus graph, as well as the k-center problem on a general graph. These center problems are classical combinatorial optimization problems and have been explored a lot in theoretical computer science. Our emphasis, however, lies in uncertain demand data, leading us to develop more general algorithmic approaches to address these problems."
         - "Teaching Assistant: CIS 550 Introduction to Algorithms; CIS 606 Analysis of Algorithms; CIS 620 Advanced Operating Systems;"
+
+    - title: C/C++ Software Engineer
+      institution: KEDACOM, Shanghai, China
+      year: 04/2016-02/2020
+      description:
+        - "Participate in the development of the general components of video conferencing software. These components are used on multiple platforms, including Windows PCs, Android devices, and iOS devices. The functions of the components include data transmission, command distribution, real-time message communication (based on the XMPP protocol), etc. Besides, serves as a trainer for new department employees, guiding them to become familiar with development processes, business knowledge, and technical frameworks."
+
