@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Haitao Xu is a Ph.D. candidate in computer science at Cleveland State University (advised by [Prof. Jingru Zhang](https://zhangatcs.github.io), Cleveland, Ohio. His research interests include algorithms and data structures, combinatorial optimization, and operations research. Besides, he has 5+ years of C/C++ developer experience in analysis, application development, maintenance, and system programming. Exposure to different domains like banking and video conferencing.
+Haitao Xu is a Ph.D. candidate in computer science at Cleveland State University (advised by [Prof. Jingru Zhang](https://zhangatcs.github.io)), Cleveland, Ohio. His research interests include algorithms and data structures, combinatorial optimization, and operations research. Besides, he has 5+ years of C/C++ developer experience in analysis, application development, maintenance, and system programming. Exposure to different domains like banking and video conferencing.
