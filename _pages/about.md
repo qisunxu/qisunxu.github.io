@@ -21,10 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
+<!--latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts-->
 ---
 
 Haitao Xu is a Ph.D. candidate in computer science at Cleveland State University (advised by [Prof. Jingru Zhang](https://zhangatcs.github.io)), Cleveland, Ohio. His research interests include algorithms and data structures, combinatorial optimization, and operations research. Besides, he has 5+ years of C/C++ developer experience in analysis, application development, maintenance, and system programming. Exposure to different domains like banking and video conferencing.
