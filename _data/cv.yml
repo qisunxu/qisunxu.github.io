@@ -45,3 +45,8 @@
       description:
         - "Participate in the development of the general components of video conferencing software. These components are used on multiple platforms, including Windows PCs, Android devices, and iOS devices. The functions of the components include data transmission, command distribution, real-time message communication (based on the XMPP protocol), etc. Besides, serves as a trainer for new department employees, guiding them to become familiar with development processes, business knowledge, and technical frameworks."
 
+    - title: C/C++ Software Engineer
+      institution: Shanghai Huateng Software Systems Co Ltd, Shanghai, China
+      year: 08/2014-04/2016
+      description:
+        - "Participate in the development of bank transaction systems. Including: batch trade settlement, report lost or stolen debit card, replacement card, card security authentication, etc. Additionally, involved in deploying new modules to bank backend production servers."
