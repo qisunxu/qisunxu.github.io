@@ -58,15 +58,8 @@
         - "Participate in the development of an automated office system based on C#, Extjs, JavaScript, CSS and Windows Workflow Foundation technology, mainly used to handle process review business."
 
 - title：Publications
-  - title: "Approximation Algorithms for the k-Center Problem on Road Networks"
-    authors: "Bo Ban, Jingru Zhang"
-    venue: "Proceedings of the 2024 ACM Symposium on Theory of Computing (STOC)"
-    year: 2024
-    link: https://example.com/k-center-stoc2024
-
-  - title: "Unified Memory Optimization in CUDA for Graph Processing"
-    authors: "Bo Ban, A. Researcher"
-    venue: "IEEE International Parallel and Distributed Processing Symposium (IPDPS)"
-    year: 2023
-    link: https://example.com/cuda-ipdps2023
-
+  type: time_table
+  contents:
+    name: "abc"
+    publisher: "dfdfdf"
+    
