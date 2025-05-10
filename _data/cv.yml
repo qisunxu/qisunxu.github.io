@@ -15,16 +15,16 @@
       institution: Cleveland State University, OH, USA
       year: 08/2021-07/2025
       description:
-        - description: Dissertation: Algorithms for Facility Location Problems with Uncertainty on Graphs
-        - description: GPA:3.84/4.00
+        - "Dissertation: Algorithms for Facility Location Problems with Uncertainty on Graphs"
+        - "GPA:3.84/4.00"
     - title: M.S. in Software Engineering
       institution: Kunming University of Science and Technology, Kunming, China 
       year: 09/2011-05/2015
       description:
-        - description: Thesis: Research and Application of Software Component Technology in College Examination System
-        - description: GPA: 85.7/100
+        - "Thesis: Research and Application of Software Component Technology in College Examination System"
+        - "GPA: 85.7/100"
     - title: A.S. in Computer Science and Applications
       institution: Shandong Institute of Commerce and Technology, Jinan, China 
       year: 09/2005-05/2008
       description:
-        - description: GPA: 82.3/100
+        - "GPA: 82.3/100"
