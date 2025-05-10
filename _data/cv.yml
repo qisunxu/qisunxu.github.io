@@ -1,3 +1,3 @@
 ## My PDF
 
-<embed src="assets/pdf/Haitao_Xu_CV.pdf" width="100%" height="600px" type="application/pdf">
+<iframe src="assets/pdf/Haitao_Xu_CV.pdf" width="100%" height="600px" style="border:none;"></iframe>
