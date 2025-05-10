@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+<!--subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.-->
 
 profile:
   align: right
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Haitao Xu is a Ph.D. candidate in Computer Science at Cleveland State University. His research focuses on algorithms and combinatorial optimization, particularly facility location problems with uncertainty on graphs. He has published in journals such as the Journal of Combinatorial Optimization and presented at COCOA. Prior to his Ph.D. studies, he worked as a software engineer in the banking and video conferencing industries. His technical expertise includes algorithm design, network programming, and systems development in C/C++, Java, Python, and SQL.
+Haitao Xu is a Ph.D. candidate in computer science at Cleveland State University (advised by [Prof. Jingru Zhang](https://zhangatcs.github.io), Cleveland, Ohio. His research interests include algorithms and data structures, combinatorial optimization, and operations research. Besides, he has 5+ years of C/C++ developer experience in analysis, application development, maintenance, and system programming. Exposure to different domains like banking and video conferencing.
