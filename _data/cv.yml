@@ -58,7 +58,6 @@
         - "Participate in the development of an automated office system based on C#, Extjs, JavaScript, CSS and Windows Workflow Foundation technology, mainly used to handle process review business."
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - Algorithms and Data Structures, Combinatorial Optimization, Data-Centric Problem, Operations Research
-	
+    - "Algorithms and Data Structures, Combinatorial Optimization, Data-Centric Problem, Operations Research"
