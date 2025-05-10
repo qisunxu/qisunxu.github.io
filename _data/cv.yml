@@ -53,7 +53,7 @@ guiding them to become familiar with development processes, business knowledge, 
       institution: Shanghai Huateng Software Systems Co Ltd, Shanghai, China
       year: 08/2014-04/2016
       description:
-        Participate in the development of bank transaction systems. Including: batch trade settlement, report
+        - Participate in the development of bank transaction systems. Including: batch trade settlement, report
 lost or stolen debit card, replacement card, card security authentication, etc. Additionally, involved in
 deploying new modules to bank backend production servers.
 
