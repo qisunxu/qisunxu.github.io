@@ -9,3 +9,4 @@ description:
 toc:
   sidebar: left
 ---
+<iframe src="yourfile.pdf" width="100%" height="90vh"></iframe>
