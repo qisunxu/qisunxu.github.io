@@ -11,11 +11,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Computer Science
       institution: Cleveland State University, OH, USA
-      year: Fall,2021 - Summer,2025
+      year: 08/2021-07/2025
       description:
-        - Dissertation: Algorithms for Facility Location Problems with Uncertainty on Graphs
+        - Dissertation. Algorithms for Facility Location Problems with Uncertainty on Graphs
         - GPA:3.84
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
