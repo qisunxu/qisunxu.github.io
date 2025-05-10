@@ -3,24 +3,20 @@
   contents:
     - name: Full Name
       value: Haitao Xu
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, Mandarin
+    - name: Email 
+      value: h.xu12@vikes.csuohio.edu
+    - name: Location
+      value: 2121 Euclid Avenue, Cleveland, Ohio 44115
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: Cleveland State University, OH, USA
-      year: 2025
+      year: Fall,2021 - Summer,2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Dissertation: Algorithms for Facility Location Problems with Uncertainty on Graphs
+        - GPA:3.84
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
