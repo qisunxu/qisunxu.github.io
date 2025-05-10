@@ -60,5 +60,5 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Algorithms and Data Structures, Combinatorial Optimization, Data-Centric Problem, Operations Research
+    - Algorithms and Data Structures, Combinatorial Optimization, Data-Centric Problem, Operations Research
 	
