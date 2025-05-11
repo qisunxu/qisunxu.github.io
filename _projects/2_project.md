@@ -18,3 +18,6 @@ deploying new modules to bank backend production servers.
         {% include figure.liquid loading="eager" path="assets/img//proj_bank1.png" title="Bank Transaction Systems" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Bank Transaction Systems
+</div>
