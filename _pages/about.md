@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: me.jpg
+  image: Qi-2inch.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
    <!-- <p>555 your office number</p>
@@ -27,4 +27,4 @@ announcements:
   limit: 3 # leave blank to include all the blog posts-->
 ---
 
-Haitao Xu is a Ph.D. candidate in computer science at Cleveland State University (advised by [Prof. Jingru Zhang](https://zhangatcs.github.io)), Cleveland, Ohio. His research interests include algorithms and data structures, combinatorial optimization, and operations research. Besides, he has 5+ years of C/C++ developer experience in analysis, application development, maintenance, and system programming. Exposure to different domains like banking and video conferencing.
+Qi Sun is a master student in computer science at Cleveland State University (advised by [Prof. Jingru Zhang](https://zhangatcs.github.io)), Cleveland, Ohio. Her research interests include algorithms and data structures, combinatorial optimization, and operations research. 
