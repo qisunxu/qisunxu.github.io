@@ -11,11 +11,11 @@ toc:
 ---
 
 ----------------
-<embed src="assets/pdf/Haitao_Xu_CV.pdf" width="100%" height="800px" type="application/pdf">
+<embed src="../assets/pdf/Haitao_Xu_CV.pdf" width="100%" height="800px" type="application/pdf">
 
 -------------------------
 
-<iframe src="assets/pdf/Haitao_Xu_CV.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="../assets/pdf/Haitao_Xu_CV.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 -------------------
 
