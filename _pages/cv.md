@@ -9,4 +9,13 @@ description:
 toc:
   sidebar: left
 ---
-<iframe src="yourfile.pdf" width="100%" height="90vh"></iframe>
+
+----------------
+<embed src="assets/pdf/Haitao_Xu_CV.pdf" width="100%" height="800px" type="application/pdf">
+
+-------------------------
+
+<iframe src="assets/pdf/Haitao_Xu_CV.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+-------------------
+
